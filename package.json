@@ -1,0 +1,27 @@
+{
+  "name": "vue_study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "view-design": "^4.3.2",
+    "vue": "^2.6.12",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.1",
+    "style-loader": "^1.2.1",
+    "svg-baker-runtime": "^1.4.7",
+    "vue-loader": "^15.9.3",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^4.44.1"
+  }
+}
